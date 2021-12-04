@@ -50,8 +50,10 @@ function createRecipe(title,ingredients,type) {
     type: type,
 
   }
-return recipe 
+return recipe
 }
+
+
 module.exports = {
   nameMenuItem,
   createMenuItem,
